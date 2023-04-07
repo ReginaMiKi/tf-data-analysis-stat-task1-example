@@ -9,4 +9,4 @@ def solution(x: np.array) -> float:
     # Это будет вашим решением
     # Не меняйте название функции и её аргументы
     t = 34
-    return np.sum(x)/(n*t)
+    return np.mean(x)/(n*t)
